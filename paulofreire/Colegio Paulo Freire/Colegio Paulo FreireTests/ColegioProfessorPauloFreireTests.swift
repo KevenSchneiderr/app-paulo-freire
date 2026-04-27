@@ -1,0 +1,18 @@
+//
+//  ColegioProfessorPauloFreireTests.swift
+//  Colegio Professor Paulo FreireTests
+//
+//  Created by Keven Matheus on 14/04/26.
+//
+
+import Testing
+
+struct ColegioProfessorPauloFreireTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+        // Swift Testing Documentation
+        // https://developer.apple.com/documentation/testing
+    }
+
+}
